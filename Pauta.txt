@@ -1,0 +1,6 @@
+luiz
+10;9;8;7
+cleverson
+7;8;9;6
+cristiano
+8;5;4;9
